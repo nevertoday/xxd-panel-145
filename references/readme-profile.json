@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 145｜Vintage Spot-colour Printmaking: redraws the key subject of a photo as a small vintage printmaking vignette, using engraved fine lines, hatching, cross-hatching, stippling and halftone dots with screen-print or riso grain, slight ink texture and old-paper print surface, overprinted in 2–4 limited spot colours from the photo such as forest green, lake blue, navy, warm yellow, ochre-orange or soft red on warm off-white paper, set small in very large whitespace with widely spaced letterpress or typewriter-style serif text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-145 or asks for vintage engraving, retro screen-print, riso spot-colour or vignette spot illustration from a photo.",
+  "short_description": "复古限色版画志：用雕版排线、点描和网点，把照片印成几种专色套印的小景版画",
+  "zh-CN": {
+    "name": "复古限色版画志",
+    "tagline": "用雕版式排线、点描和网点，把照片印成一幅几种专色套印的复古小景。",
+    "look": "主体和少量环境元素被重新刻成一幅小景版画：细刻线、排线、交叉线、点描和半调网点塑造形体，叠着丝网或 Riso 式的油墨颗粒和旧纸印刷肌理，看起来像复古套色雕版，而不是现代平涂插画。颜色从照片里取 2–4 种，压成限色套印，常见森林绿、湖蓝、藏蓝、暖黄、赭橙、柔红，配暖白或旧纸白底。小景明显缩小，四周是超大留白；标题或短句用字距拉开、带活字或打字机味道的衬线字。",
+    "traits": [
+      "复古限色版画",
+      "雕刻排线点刻",
+      "半调网点",
+      "丝网或 Riso 颗粒",
+      "微小插图与巨大留白"
+    ],
+    "good": [
+      "有自然或户外气息的小景：湖边小屋、林中小路、一座灯塔、山间营地",
+      "适合做成纪念图案的主体：一只鸟、一只鹿、一辆老爷车、一座老建筑",
+      "想做成复古旅行海报、国家公园风纪念品或书籍插图的照片"
+    ],
+    "poor": [
+      "需要真实色彩和细腻肤色的人像",
+      "复杂场景想全部保留，画出来会只剩一小块",
+      "想要现代平涂矢量、荧光色、数码渐变、卡通或 3D 效果"
+    ]
+  },
+  "en": {
+    "name": "Vintage Spot-colour Printmaking",
+    "tagline": "Prints your photo as a small vintage vignette in engraved hatching, stippling and halftone, overprinted in a few spot colours.",
+    "look": "The subject and a few surrounding elements are recut as a small printmaking vignette: fine engraved lines, hatching, cross-hatching, stippling and halftone dots build the forms, with screen-print or riso ink grain and old-paper texture on top, so it looks like a vintage multi-colour engraving rather than a modern flat illustration. Two to four colours from the photo are reduced to a limited overprint palette, often forest green, lake blue, navy, warm yellow, ochre-orange or soft red, on warm white or aged-paper white. The vignette is clearly small inside very wide whitespace, with titles or short lines in widely spaced serif type that recalls letterpress or a typewriter.",
+    "traits": [
+      "Vintage limited-colour print",
+      "Engraved hatching and stipple",
+      "Halftone dots",
+      "Screen-print or riso grain",
+      "Tiny vignette, vast whitespace"
+    ],
+    "good": [
+      "Small scenes with an outdoor feel: a lakeside cabin, a forest path, a lighthouse, a mountain campsite",
+      "Subjects that work as a keepsake emblem: a bird, a deer, a vintage car, an old building",
+      "Photos for a retro travel poster, national-park-style souvenir or book illustration"
+    ],
+    "poor": [
+      "Portraits that need true colour and subtle skin tones",
+      "Complex scenes you want kept in full, since only a small vignette remains",
+      "Requests for modern flat vector, neon colours, digital gradients, cartoon or 3D"
+    ]
+  },
+  "ja": {
+    "name": "レトロ限定色版画",
+    "tagline": "彫版風のハッチング、点描、網点で、写真を数色の特色で刷り重ねたレトロな小景にします。",
+    "look": "主役とわずかな周りの要素を、小さな版画の小景として彫り直します。細い彫線、ハッチング、クロスハッチング、点描、ハーフトーンの網点で形をつくり、その上にシルクスクリーンやリソ風のインクの粒子と古い紙の刷り肌を重ねます。現代的な平塗りイラストではなく、レトロな多色刷りの彫版のような見た目です。色は写真から 2〜4 色を取り、限られた特色の刷り重ねにまとめます。深緑、湖の青、紺、暖かい黄、赤みの黄土、柔らかな赤などが多く、温白や古紙の白と合わせます。小景ははっきり小さく、周りはとても大きな余白。タイトルや短い一言は、字間を広げた活版やタイプライター風のセリフ体で置きます。",
+    "traits": [
+      "レトロな限定色版画",
+      "彫りのハッチングと点描",
+      "ハーフトーン網点",
+      "シルクやリソの粒子",
+      "小さな挿絵と大きな余白"
+    ],
+    "good": [
+      "自然や屋外の気配がある小景：湖畔の小屋、森の小道、灯台、山のキャンプ場",
+      "記念の図柄に向く主役：鳥、鹿、クラシックカー、古い建物",
+      "レトロな旅行ポスター、国立公園風の記念品、本の挿絵にしたい写真"
+    ],
+    "poor": [
+      "実際の色や繊細な肌の色が必要な人物写真",
+      "複雑な場面を丸ごと残したい場合（小さな小景だけが残ります）",
+      "現代的な平塗りベクター、蛍光色、デジタルのグラデーション、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "빈티지 제한색 판화",
+    "tagline": "판각풍 해칭, 점묘, 망점으로 사진을 별색 몇 가지로 겹쳐 찍은 빈티지 소경으로 만듭니다.",
+    "look": "주인공과 약간의 주변 요소를 작은 판화 소경으로 다시 새깁니다. 가는 판각 선, 해칭, 교차 해칭, 점묘, 하프톤 망점으로 형태를 만들고, 그 위에 실크스크린이나 리소 같은 잉크 입자와 오래된 종이의 인쇄 질감을 얹어 현대적인 평면 일러스트가 아니라 빈티지 다색 판화처럼 보이게 합니다. 색은 사진에서 2~4가지를 골라 제한된 별색 겹침으로 줄이며, 숲 녹색, 호수 파랑, 남색, 따뜻한 노랑, 황토 주황, 부드러운 빨강이 자주 쓰이고 따뜻한 흰색이나 바랜 종이색 바탕과 맞춥니다. 소경은 분명히 작고 주변은 아주 넓은 여백이며, 제목이나 짧은 문장은 자간을 넓힌 활판·타자기풍 세리프로 둡니다.",
+    "traits": [
+      "빈티지 제한색 판화",
+      "판각 해칭과 점묘",
+      "하프톤 망점",
+      "실크스크린·리소 입자",
+      "작은 삽화와 거대한 여백"
+    ],
+    "good": [
+      "자연이나 야외 분위기가 있는 소경: 호숫가 오두막, 숲길, 등대, 산속 캠핑장",
+      "기념 문양으로 어울리는 주인공: 새, 사슴, 클래식 카, 오래된 건물",
+      "레트로 여행 포스터, 국립공원풍 기념품, 책 삽화로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "실제 색과 섬세한 피부톤이 필요한 인물 사진",
+      "복잡한 장면을 전부 남기고 싶은 경우(작은 소경만 남습니다)",
+      "현대적인 평면 벡터, 형광색, 디지털 그러데이션, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طباعة عتيقة بألوان موضعية",
+    "tagline": "يطبع صورتك مشهداً صغيراً عتيقاً بتظليل محفور وتنقيط وهافتون، بطبقات من بضعة ألوان موضعية.",
+    "look": "يُعاد حفر العنصر وبعض ما حوله في مشهد طباعي صغير: خطوط محفورة رفيعة وتظليل متوازٍ ومتقاطع وتنقيط ونقاط هافتون تبني الأشكال، وفوقها حبيبات حبر الشاشة الحريرية أو الريسو وملمس الورق القديم، فيبدو كنقش ملوّن عتيق لا كرسم حديث مسطّح. تُؤخذ من الصورة اثنان إلى أربعة ألوان وتُختزل إلى لوحة طباعة محدودة، غالباً الأخضر الغابي والأزرق البحيري والكحلي والأصفر الدافئ والبرتقالي المغري والأحمر الناعم، على أبيض دافئ أو أبيض الورق القديم. يكون المشهد صغيراً بوضوح وسط فراغ واسع جداً، والعناوين أو الأسطر القصيرة بخط مذيّل متباعد الحروف يذكّر بالطباعة بالحروف المعدنية أو الآلة الكاتبة.",
+    "traits": [
+      "طباعة عتيقة بألوان محدودة",
+      "تظليل محفور وتنقيط",
+      "نقاط هافتون",
+      "حبيبات الشاشة الحريرية أو الريسو",
+      "مشهد ضئيل وفراغ هائل"
+    ],
+    "good": [
+      "مشاهد صغيرة بروح الطبيعة والهواء الطلق: كوخ على بحيرة، درب في غابة، منارة، مخيم جبلي",
+      "عناصر تصلح شعاراً تذكارياً: طائر، غزال، سيارة كلاسيكية، مبنى قديم",
+      "صور لملصق سفر عتيق أو تذكار بطابع الحدائق الوطنية أو رسم لكتاب"
+    ],
+    "poor": [
+      "صور شخصية تحتاج إلى ألوان حقيقية ودرجات بشرة دقيقة",
+      "مشاهد معقدة تريد الإبقاء عليها كاملة، إذ لا يبقى إلا مشهد صغير",
+      "طلب رسوم متجهية مسطّحة حديثة أو ألوان فسفورية أو تدرّجات رقمية أو مظهر كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}
